@@ -1,0 +1,32 @@
+{
+    "HOME": {
+        "TITLE": "Hauptseite Principal",
+        "SUMMARY": "Startseite In Bearbeitung ..."
+    },
+    "PROFESIONAL": {
+        "TITLE": "Professionelle",
+        "SUMMARY": "Professionelle Entwicklung Erfahrung, Projekte, Wettbewerbe usw."
+    },
+    "ABOUTME": {
+        "TITLE": "Über mich",
+        "SUMMARY": "Hobbys, Geschmäcker, Gewohnheiten usw."
+    },
+    "BLOG": {
+        "TITLE": "Blog",
+        "SUMMARY": "Inhalt von Interesse jeglicher Art (technologische, künstliche Intelligenz, Frameworks, kognitive Psychologie, Bücher, etc.)"
+    },
+    "CONTACT": {
+        "TITLE": "Kontakt",
+        "SUMMARY": "Grundlegende Kontaktinformationen Umleitung zu Mail"
+    },
+    "CONF": {
+        "LANGUAGE": {
+            "ES": "Spanisch",
+            "EN": "Englisch",
+            "GY": "Deutsch",
+            "FR": "Französisch",
+            "RS": "Russisch",
+            "KZ": "Kasachisch"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+<form [formGroup]="langForm" (ngSubmit)="sendLangFormData()">
+    <select formControlName="language" name="langForm" id="langForm">
+      <option value="es">
+         <span>{{ 'CONF.LANGUAGE.ES' | translate }}</span>
+      </option>
+      <option value="en">
+         <span>{{ 'CONF.LANGUAGE.EN' | translate }}</span>
+      </option>
+      <option value="gy">
+         <span>{{ 'CONF.LANGUAGE.GY' | translate }}</span>
+      </option>
+      <option value="fr">
+         <span>{{ 'CONF.LANGUAGE.FR' | translate }}</span>
+      </option>
+      <option value="rs">
+         <span>{{ 'CONF.LANGUAGE.RS' | translate }}</span>
+      </option>
+      <option value="kz">
+         <span>{{ 'CONF.LANGUAGE.KZ' | translate }}</span>
+      </option>
+  </select>
+</form>

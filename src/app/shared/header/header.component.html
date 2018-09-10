@@ -1,0 +1,8 @@
+<nav>
+    <ul>
+        <li *ngFor="let submenu of _navService.getMenu" routerLinkActive="activeOption">
+            <a href="#" [routerLink]="[submenu.url]">{{ submenu.title | translate | uppercase}}</a>
+        </li>
+    </ul>
+</nav>
+<app-language></app-language>

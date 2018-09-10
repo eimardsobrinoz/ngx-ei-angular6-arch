@@ -1,0 +1,32 @@
+{
+    "HOME": {
+        "TITLE": "Page principal",
+        "SUMMARY": "Page d'accueil. En progrès..."
+    },
+    "PROFESIONAL": {
+        "TITLE": "Professionnel",
+        "SUMMARY": "Développement professionnel. Expérience, projets, concours, etc."
+    },
+    "ABOUTME": {
+        "TITLE": "Sur moi",
+        "SUMMARY": "Loisirs, goûts, habitudes, etc."
+    },
+    "BLOG": {
+        "TITLE": "Blog",
+        "SUMMARY": "Contenu d'intérêt de toute nature (technologique, intelligence artificielle, frameworks, psychologie cognitive, livres, etc.)"
+    },
+    "CONTACT": {
+        "TITLE": "Contact",
+        "SUMMARY": "Informations de contact de base. Redirection vers le courrier"
+    },
+    "CONF": {
+        "LANGUAGE": {
+            "ES": "Espagnol",
+            "EN": "Anglais",
+            "GY": "Allemand",
+            "FR": "Français",
+            "RS": "Russe",
+            "KZ": "Kazakh"
+        }
+    }
+}
